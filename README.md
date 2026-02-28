@@ -26,7 +26,8 @@ RAM: 6GB
 * ✔ Battery Status
 * ✔ Brightness Control
 * ✔ Volume Control
-
+* ✔ USB Teathering
+  
 ---
 
 ## ❌ Not Working
