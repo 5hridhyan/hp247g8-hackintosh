@@ -233,6 +233,8 @@ Info:
     pkgs: 74 libs: 17 pm: pacman pkgs: 1351 libs: 321 tools: yay pm: flatpak
     pkgs: 21 Compilers: clang: 21.1.8 gcc: 15.2.1 Shell: Zsh v: 5.9
     running-in: kitty inxi: 3.3.40
-``````
+```
+</details>
+
 
 some data from the config files are redacted to avoid Apple ID issues, users are requested to fill themselves
